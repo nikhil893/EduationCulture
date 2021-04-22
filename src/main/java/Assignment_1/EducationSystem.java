@@ -5,14 +5,16 @@ public class EducationSystem {
         Graduation gd = new Graduation();
         gd.streams();
         gd.hscPercentage();
-        gd.ageCritera();
+        gd.ageCriteria();
         System.out.println("---------------gd--------------");
+
         Engineering eg = new Engineering();
         eg.streams();
         eg.typeOfEngineering();
         System.out.println("-------------eg--------------------");
         ComputerScienceEngg cse = new ComputerScienceEngg();
         cse.hscPercentage();
+
         cse.subjects();
         System.out.println("--------cse-----------");
 

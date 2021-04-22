@@ -1,13 +1,17 @@
 package Assignment_1;
 
 public class Graduation {
-    public void streams() {
+    public void streams(){
         System.out.println("BCA,BBA,BE");
     }
-    public void hscPercentage() {
-        System.out.println("for graduation minimun 60% is critera");
+    public void hscPercentage(){
+        System.out.println("For Graduation Minimum 60% criteria");
+
     }
-    public void ageCritera() {
-        System.out.println("for graduation minimun age critera for cadidate is 20 years");
+    public void ageCriteria(){
+        System.out.println(" For Graduation Minimum age criteria for candidate is 20");
+
     }
+
+
 }
